@@ -1,0 +1,13 @@
+# NAME: Main
+# UPDATED: 2025-08-23
+# DOMAIN-SUFFIX：匹配域名后缀
+# DOMAIN-KEYWORD：匹配域名关键词
+# DOMAIN：精确匹配域名
+# IP-CIDR：匹配IP地址段
+# GEOIP：匹配地理位置
+# USER-AGENT：匹配用户代理
+[Rule]
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,clashofclans.com
+DOMAIN-SUFFIX,micu.hk
+DOMAIN-SUFFIX,uhdnow.com
