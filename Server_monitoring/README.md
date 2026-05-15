@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/egerndaddy/quick-start/main/modules/server-monitor.yaml

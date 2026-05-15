@@ -1,0 +1,40 @@
+PROCESS-NAME,steam.exe,PROXY
+PROCESS-NAME,steamwebhelper.exe,PROXY
+PROCESS-NAME,Telegram.exe,PROXY
+
+ # Steam 社区
+DOMAIN-SUFFIX,steamcommunity.com,PROXY
+# Steam 商店
+DOMAIN-SUFFIX,steampowered.com,PROXY
+# Steam 静态资源
+DOMAIN-SUFFIX,steamstatic.com,PROXY
+# Steam 游戏分发
+DOMAIN-SUFFIX,steamgames.com,PROXY
+# V社官方
+DOMAIN-SUFFIX,valvesoftware.com,PROXY
+
+# GitHub 主站 & 核心
+DOMAIN-SUFFIX,github.com,PROXY
+DOMAIN-SUFFIX,github.io,PROXY
+# GitHub 静态资源、CDN、头像、图片
+DOMAIN-SUFFIX,githubassets.com,PROXY
+DOMAIN-SUFFIX,githubusercontent.com,PROXY
+# Raw / 源码直连
+DOMAIN,raw.githubusercontent.com,PROXY
+# Gist 代码片段
+DOMAIN,gist.github.com,PROXY
+# SSH Git 推送拉取
+DOMAIN,ssh.github.com,PROXY
+# GitHub Release 下载、包托管
+DOMAIN-SUFFIX,githubreleases.com,PROXY
+DOMAIN,objects.githubusercontent.com,PROXY
+# GitHub 媒体、仓库资源
+DOMAIN,camo.githubusercontent.com,PROXY
+# GitHub 第三方依赖、网站静态
+DOMAIN-SUFFIX,githubapp.com,PROXY
+DOMAIN-SUFFIX,github.dev,PROXY
+# GitHub Actions / 官方服务
+DOMAIN-SUFFIX,githubstatus.com,PROXY
+DOMAIN-SUFFIX,github.blog,PROXY
+
+DOMAIN-SUFFIX,uhdnow.com,PROXY
